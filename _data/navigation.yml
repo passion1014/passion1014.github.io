@@ -10,8 +10,6 @@ main:
     url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
-
-
 docs:
   - title: Getting Started
     children:
@@ -56,3 +54,5 @@ docs:
         url: /docs/stylesheets/
       - title: "JavaScript"
         url: /docs/javascript/
+sidebar:
+  nav: "docs"
