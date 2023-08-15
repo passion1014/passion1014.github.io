@@ -34,9 +34,9 @@ main:
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: 신학 공부
     children:
-      - title: "Quick-Start Guide"
+      - title: "조직신학 일반"
         url: /docs/quick-start-guide/
       - title: "Structure"
         url: /docs/structure/
