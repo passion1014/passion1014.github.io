@@ -3,7 +3,11 @@ title: Vector Database란 무엇인가?
 categories:
     - it
     - ai
+toc: true
+toc_label: Vector Database란
 ---
+
+
 
 # Vector Database 관련글
 
@@ -31,21 +35,21 @@ categories:
 
 벡터 데이터베이스를 사용하면 AI에 의미 정보 검색, 장기 기억 등의 고급 기능을 추가할 수 있습니다. 아래 다이어그램은 이러한 유형의 응용 프로그램에서 벡터 데이터베이스의 역할에 대한 더 나은 이해를 제공합니다.
 
-![Untitled](../images/2023-08-07-about_vector_database/Untitled.png)
+![Untitled](/images/2023-08-07-about_vector_database/Untitled.png)
 
 1. 첫째, 우리는 색인하려는 내용에 대한 벡터 임베딩을 생성하기 위해 임베딩 모델을 사용한다.
 2. 벡터 임베딩은 임베딩이 생성된 원래 내용에 대한 참조와 함께 벡터 데이터베이스에 삽입된다.
 3. 응용 프로그램이 쿼리를 발행하면, 우리는 쿼리를 위한 임베딩을 생성하기 위해 동일한 임베딩 모델을 사용하고, 그 임베딩을 사용해 데이터베이스에서 유사한 벡터 임베딩을 쿼리한다. 그리고 앞서 언급했듯이, 그 유사한 임베딩은 그것을 생성하는 데 사용된 원래 내용과 연관되어 있다.
 
-![Untitled](../images/2023-08-07-about_vector_database/Untitled%201.png)
+![Untitled](/images/2023-08-07-about_vector_database/Untitled%201.png)
 
 ## Vector Database 설명 영상
 
 [AI 이미지 검색 엔진 만들기 - 벡터 데이터베이스 설명과 Chroma DB 튜토리얼](https://youtu.be/7WCRhW1Z8NI)
 
-![Untitled](../images/2023-08-07-about_vector_database/Untitled%202.png)
+![Untitled](/images/2023-08-07-about_vector_database/Untitled%202.png)
 
-![Untitled](../images/2023-08-07-about_vector_database/Untitled%203.png)
+![Untitled](/images/2023-08-07-about_vector_database/Untitled%203.png)
 
 # 참고 자료
 
