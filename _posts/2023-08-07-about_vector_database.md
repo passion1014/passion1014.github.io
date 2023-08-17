@@ -1,3 +1,10 @@
+---
+title: Vector Database란 무엇인가?
+categories:
+    - it
+    - ai
+---
+
 # Vector Database 관련글
 
 ## Vector Database란 무엇인가? (pinecone 제공)
